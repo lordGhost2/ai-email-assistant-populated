@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pandas
+python-multipart
+requests
+openai
+python-dotenv
+aiofiles
+regex
